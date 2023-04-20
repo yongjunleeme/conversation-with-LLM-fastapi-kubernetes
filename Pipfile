@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+fastapi = "==0.75.0"
+requests = "==2.25.1"
+asyncio = "==3.4.3"
+maya = "==0.6.1"
+kubernetes = "==17.17.0"
+sqlalchemy = "*"
+uvicorn = "==0.16.0"
+mysqlclient = "*"
+cryptography = "==3.4.7"
+pyjwt = "==2.4.0"
+sqlmodel = "==0.0.8"
+alembic = "==1.10.2"
+flake8 = "*"
+black = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"

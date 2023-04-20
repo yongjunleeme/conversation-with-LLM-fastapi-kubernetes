@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+ENV.bak/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IntelliJ
+out/
+target/
+*.class
+.idea/
+*.iml
+*.iws
+*.ipr
